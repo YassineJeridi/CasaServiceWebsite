@@ -1,0 +1,3318 @@
+/* navbar loading page start */
+.navbartexte3
+{
+  font-family: Azonix;
+  font-size: 22px;
+  color: white;
+}
+
+/* navbar loading page end */
+
+/*navbar start */
+.navbar 
+{
+  background-color: #7FB5FF;
+}
+.navbartexte1
+{
+  font-family: azonix;
+  font-size: 22px;
+  color: white;
+}
+
+#navbartexte2
+{
+  font-family: poppins;
+  font-size: 21px;
+  color:#7FB5FF;
+  border-radius: 20px;
+}
+#navbartexte3
+{
+  font-family: poppins;
+  font-size: 21px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+#casa_service
+{
+    font-size: 50px;
+}
+
+.navbar-brand 
+{
+  margin-right: 20px;
+  font-family: Azonix;
+  font-size: 100px;
+  
+}
+
+.navbar-brand img 
+{
+  height: 50px;
+  width: auto;
+  margin-left: 40px;
+}
+#pink
+{
+  font-family: azonix;
+  font-size: 22px;
+  color:#CD00FF;
+}
+
+@media (max-width: 1206px) 
+{
+  .navbar .navbar-brand 
+  {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+}
+
+/*navbar end*/
+
+/*responsize start 1*/  
+/* navbar loading page star */
+@media only screen and (max-width: 1256px) 
+{
+
+
+.navbartexte3
+{
+  font-family: Azonix;
+  font-size: 20px;
+  color: white;
+}
+
+/* navbar loading page end */
+
+/*navbar start */
+.navbar 
+{
+  background-color: #7FB5FF;
+}
+.navbartexte1
+{
+  font-family: azonix;
+  font-size: 20px;
+  color: white;
+}
+
+#navbartexte2
+{
+  font-family: poppins;
+  font-size: 19px;
+  color:#7FB5FF;
+  border-radius: 20px;
+}
+#navbartexte3
+{
+  font-family: poppins;
+  font-size: 19px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+
+#casa_service
+{
+    font-size: 45px;
+}
+
+.navbar-brand 
+{
+  margin-right: 20px;
+  font-family: Azonix;
+  font-size: 80px;
+  
+}
+
+.navbar-brand img 
+{
+  height: 50px;
+  width: auto;
+  margin-left: 40px;
+}
+#pink
+{
+  font-family: azonix;
+  font-size: 20px;
+  color:#CD00FF;
+}
+
+@media (max-width: 1206px) 
+{
+  .navbar .navbar-brand 
+  {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+}
+}
+
+/*navbar end*/
+/*responsize end 1*/
+
+
+
+
+
+/*responsize start 1*/  
+/* navbar loading page start**************************** */
+@media only screen and (max-width: 1140px) 
+{
+
+
+.navbartexte3
+{
+  font-family: Azonix;
+  font-size: 18px;
+  color: white;
+}
+
+/* navbar loading page end */
+
+/*navbar start */
+.navbar 
+{
+  background-color: #7FB5FF;
+}
+.navbartexte1
+{
+  font-family: azonix;
+  font-size: 18px;
+  color: white;
+}
+
+#navbartexte2
+{
+  font-family: poppins;
+  font-size: 17px;
+  color:#7FB5FF;
+  border-radius: 20px;
+}
+#navbartexte3
+{
+  font-family: poppins;
+  font-size: 17px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+
+#casa_service
+{
+    font-size: 40px;
+}
+
+.navbar-brand 
+{
+  margin-right: 20px;
+  font-family: Azonix;
+  font-size: 75px;
+  
+}
+
+.navbar-brand img 
+{
+  height: 50px;
+  width: auto;
+  margin-left: 40px;
+}
+#pink
+{
+  font-family: azonix;
+  font-size: 18px;
+  color:#CD00FF;
+}
+
+@media (max-width: 1206px) 
+{
+  .navbar .navbar-brand 
+  {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+}
+}
+
+/*navbar end*/
+/*responsize end 2*/
+
+
+
+/*responsize start 1*/  
+/* navbar loading page start**************************** */
+@media only screen and (max-width:1070px) 
+{
+
+
+.navbartexte3
+{
+  font-family: Azonix;
+  font-size: 16px;
+  color: white;
+}
+
+/* navbar loading page end */
+
+/*navbar start */
+.navbar 
+{
+  background-color: #7FB5FF;
+}
+.navbartexte1
+{
+  font-family: azonix;
+  font-size: 16px;
+  color: white;
+}
+
+#navbartexte2
+{
+  font-family: poppins;
+  font-size: 16px;
+  color:#7FB5FF;
+  border-radius: 20px;
+}
+#navbartexte3
+{
+  font-family: poppins;
+  font-size: 16px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+
+#casa_service
+{
+    font-size: 30px;
+}
+
+.navbar-brand 
+{
+  margin-right: 20px;
+  font-family: Azonix;
+  font-size: 70px;
+  
+}
+
+.navbar-brand img 
+{
+  height: 50px;
+  width: auto;
+  margin-left: 40px;
+}
+#pink
+{
+  font-family: azonix;
+  font-size: 16px;
+  color:#CD00FF;
+}
+
+@media (max-width: 1206px) 
+{
+  .navbar .navbar-brand 
+  {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+}
+}
+
+/*navbar end*/
+/*responsize end 2*/
+
+/*responsize title*/
+@media only screen and (max-width:990px) 
+{
+  #casa_service
+{
+    font-size: 50px;
+}
+}
+@media only screen and (max-width:654px) 
+{
+#casa_service
+{
+    font-size: 30px;
+}
+.navbar-brand 
+{
+  margin-right: 10px;
+  font-family: Azonix;
+  font-size: 50px;
+  
+}
+.navbar-brand img 
+{
+  height: 40px;
+  width: auto;
+  margin-left: 40px;
+}
+}
+@media only screen and (max-width:454px) 
+{
+#casa_service
+{
+    font-size: 20px;
+}
+.navbar-brand 
+{
+  margin-right: 10px;
+  font-family: Azonix;
+  font-size: 50px;
+  
+}
+.navbar-brand img 
+{
+  height: 30px;
+  width: auto;
+  margin-left: 40px;
+}
+}
+
+
+
+
+
+
+/*crew image start */
+
+.crew_image img  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  overflow: hidden;
+  width: 1540px; /* Adjust the width and height to your preference */
+  height: 700px;
+  
+}
+
+.crew_image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  
+}
+/*crew image end */
+
+/*titles start*/
+#title1
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-top: 200px;
+    align-items: center;
+}
+#title2
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    
+    align-items: center;
+}
+#title3
+{
+  font-family: Azonix;
+  display: inline-block;
+  color:#7FB5FF;
+  
+  align-items: center;
+}
+
+#subtitle2
+{
+  font-family: Azonix;
+  display: inline-block;
+  color: white ;
+  margin-left: 70px;
+  align-items: center;
+}
+
+/*titles end*/
+
+/*sections font start */
+.section-blue
+{
+    background-color: #7FB5FF;
+}
+.section-white
+{
+    background-color: white;
+}
+.section-darkblue
+{
+    background-color: #0D0235;
+
+}
+/*sections font end */
+
+/*boxes start*/
+.box {
+    margin: 80px;
+    border-radius: 20px;
+    background-color: white;
+    padding: 100px;
+    position: relative; /* Enable relative positioning for button */
+  }
+
+  .box p {
+    margin: 0;
+    font-size: 40px;
+    font-family: poppins;      /*  <-----box content  */
+    color: #7FB5FF;
+  }
+  
+  .box button {
+    position: absolute;
+    bottom: 30px; /* Distance from the bottom edge of the box */
+    right: 30px; /* Distance from the right edge of the box */
+  }
+  .box_transp
+  {
+    margin: 40px;
+    border-radius: 20px;
+    padding: 100px;
+    position: relative; /* Enable relative positioning for button */
+  }
+  .box_transp p 
+  {
+    margin: 0;
+    font-size: 40px;
+    font-family: poppins;
+    color: white;
+  }
+  
+/*boxes end*/
+
+
+
+
+/* Buttons Start */
+#buttonb
+{
+    background-color:#7FB5FF;
+    border-radius: 15px;
+    color: white;
+    font-family: poppins;
+    border: #7FB5FF;  
+    height:80px;
+    width: 170px;
+    font-size: 30px;
+}
+
+#buttondon2
+{
+  background-color:#7FB5FF;
+  border-radius: 15px;
+  color: white;
+  font-family: poppins;
+  border: #7FB5FF;  
+  height:80px;
+  width: 250px;
+  font-size: 30px;
+}
+
+#buttondon 
+{
+    font-size: 25px;
+    height: 80px;
+    width: 200px;
+    font-family: poppins;
+    border: 30px;
+    text-align: right;
+    margin-left:1500px;
+}
+
+/* Buttons End */
+
+/*start animating wave */
+
+.waves {
+    position:relative;
+    width: 100%;
+    height:15vh;
+    margin-bottom:-7px; 
+    min-height:100px;
+    max-height:150px;
+  }
+
+  .parallax > use {
+    animation: move-forever 25s cubic-bezier(.55,.5,.45,.5)     infinite;
+  }
+  .parallax > use:nth-child(1) {
+    animation-delay: -2s;
+    animation-duration: 7s;
+  }
+  .parallax > use:nth-child(2) {
+    animation-delay: -3s;
+    animation-duration: 10s;
+  }
+  .parallax > use:nth-child(3) {
+    animation-delay: -4s;
+    animation-duration: 13s;
+  }
+  .parallax > use:nth-child(4) {
+    animation-delay: -5s;
+    animation-duration: 20s;
+  }
+  @keyframes move-forever {
+    0% {
+     transform: translate3d(-90px,0,0);
+    }
+    100% { 
+      transform: translate3d(85px,0,0);
+    }
+}
+/*end wave animation*/
+
+
+/* Books index Start */
+
+.books_pos_index
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.books_blue
+{
+  border-radius: 30px;
+  width: 250px;
+  height: 250px;
+  background-color:#7FB5FF;
+  margin: 0 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.book_dim
+{
+  height: 180px;
+  width: 180px;
+}
+
+.label_blue
+{
+  color: #7FB5FF;
+  text-align: center;
+  font-family: poppins;
+  font-size: 30px;
+}
+
+
+.book_dim
+{
+  height: 180px;
+  width: 180px;
+}
+
+.label_blue
+{
+  color: #7FB5FF;
+  text-align: center;
+  font-family: poppins;
+  font-size: 30px;
+}
+
+@media only screen and (max-width: 1040px) 
+{
+  .books_pos_index
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.books_blue
+{
+  border-radius: 30px;
+  width: 200px;
+  height: 200px;
+  background-color:#7FB5FF;
+  margin: 0 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+.book_dim
+{
+  height: 150px;
+  width: 150px;
+}
+
+.label_blue
+{
+  color: #7FB5FF;
+  text-align: center;
+  font-family: poppins;
+  font-size: 30px;
+}
+
+.label_blue
+{
+  color: #7FB5FF;
+  text-align: center;
+  font-family: poppins;
+  font-size: 30px;
+}
+/*animation */               /*problem  down */                          
+div.books_blue p.to_click {
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  bottom: 20px;
+  padding: 10px 20px;
+   /* Change to your desired paragraph background color */
+  color: #fff; /* Change to your desired paragraph text color */
+  border: none;
+  cursor: pointer;
+  opacity: 0; /* Hide the paragraph by default */
+  transition: opacity 1.5s ease; /* Add a smooth transition for the paragraph appearance */
+  justify-content: center;
+  align-items: center;
+}
+
+
+div.books_blue:hover p.to_click {
+  opacity: 1; /* Show the paragraph on hover */
+  font-family: poppins;
+  font-size: 20px;
+}
+/*animation */                 /*problem  up */  
+}
+@media only screen and (max-width: 761px) 
+{
+  .books_pos_index
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.books_blue
+{
+  border-radius: 20px;
+  width: 140px;
+  height: 140px;
+  background-color:#7FB5FF;
+  margin: 0 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.book_dim
+{
+  height: 110px;
+  width: 110px;
+}
+
+.label_blue
+{
+  color: #7FB5FF;
+  text-align: center;
+  font-family: poppins;
+  font-size: 20px;
+}
+.label_blue
+{
+  color: #7FB5FF;
+  text-align: center;
+  font-family: poppins;
+  font-size: 20px;
+}
+}
+
+@media only screen and (max-width: 570px) 
+{
+  .books_pos_index
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.books_blue
+{
+  border-radius: 20px;
+  width: 110px;
+  height: 110px;
+  background-color:#7FB5FF;
+  margin: 0 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.book_dim
+{
+  height: 80px;
+  width: 80px;
+}
+
+.label_blue
+{
+  color: #7FB5FF;
+  text-align: center;
+  font-family: poppins;
+  font-size: 20px;
+}
+
+.label_blue
+{
+  color: #7FB5FF;
+  text-align: center;
+  font-family: poppins;
+  font-size: 20px;
+}
+}
+
+@media (max-width:502px) 
+{
+  .books_pos_index
+
+  {
+    flex-direction: column;
+  }
+
+  .books 
+  {
+    margin: 25px 0;
+  }
+}
+
+/* Books index End */
+/*books animation hover effect start */
+div.books_blue {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Styling the hover effect */
+div.books_blue::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -100%;
+  width: 100%;
+  height: 100%;
+  background-color: #7FB5FF; /* Change to your desired hover background color */
+  transition: bottom 0.3s ease, opacity 0.1s ease; /* Add a smooth transition for the hover effect */
+  opacity: 0; /* Hide the pseudo-element by default */
+}
+
+div.books_blue:hover::before {
+  bottom: 0;
+  opacity: 1; /* Show the pseudo-element on hover */
+}
+
+/* Styling the paragraph that appears on hover */
+div.books_blue p.to_click {
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  bottom: 20px;
+  padding: 10px 20px;
+   /* Change to your desired paragraph background color */
+  color: #fff; /* Change to your desired paragraph text color */
+  border: none;
+  cursor: pointer;
+  opacity: 0; /* Hide the paragraph by default */
+  font-size: 40px;
+  transition: opacity 1.0s ease; /* Add a smooth transition for the paragraph appearance */
+  justify-content: center;
+  align-items: center;
+}
+
+div.books_blue:hover p.to_click {
+  opacity: 1; /* Show the paragraph on hover */
+  font-size: 40px;
+  font-family: poppins;
+}
+/*books animation hover effect end */
+
+/*books our service start*/
+.label_white
+{
+  color: white;
+  text-align: center;
+  font-family: poppins;
+  font-size: 30px;
+}
+
+.books_white
+{
+  border-radius: 30px;
+  width: 250px;
+  height: 250px;
+  background-color:white;
+  margin: 0 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.books_pos_service {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.books_pos_service > div {
+  flex-basis: 33.33%; /* Set each item to occupy one-third of the container width */
+  padding: 30px;
+  box-sizing: border-box;
+}
+@media (max-width: 768px) {
+  .books_pos_service > div {
+    flex-basis: 50%; /* Set each item to occupy half of the container width for smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .books_pos_service > div {
+    flex-basis: 100%; /* Set each item to occupy the full container width for smaller screens */
+  }
+} 
+/*books our service end*/
+
+
+/*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 110px;
+    align-items: center;
+    font-size: 40px;
+    
+}
+
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 28px;
+}
+
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:120px;
+    font-size: 30px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 170px;
+    font-size: 30px;
+    display: inline-block;
+}
+.footer_text3
+{
+  align-items: center;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 30px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 25px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+  
+}
+
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:40px;
+    margin-right: 40px;
+    
+    
+}
+
+.icons2 /*contact*/
+{
+    height:50px;
+    margin-left: -30px;
+
+}
+
+.logo_footer 
+{
+    height:170px;
+    display: inline-block;
+    
+}
+/*items end */
+#copy_right
+{
+  height: 40px;
+  width:40px;
+}
+/*footer end */
+/*video start*/
+.video-wrapper 
+{
+  
+  position: relative;
+  width: 1300px;
+  height: 700px;
+  overflow: hidden;
+  border-radius: 30px;
+}
+
+.video-mask 
+{
+  
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  -webkit-mask-image: none;
+  mask-image: none;
+  background-color: white;
+  border-radius: 30px;
+}
+
+.video 
+{
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 30px;
+}
+/*video end*/
+
+/*our story page start */
+.story 
+{
+  display: flex;
+  justify-content: space-between;
+}
+  
+
+.story p 
+{
+  margin-right: 10px;
+}
+
+/*our story page end*/
+
+/*form start */
+
+.center-container {
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.form-container {
+  background-color: #7FB5FF;
+  border-radius: 20px;
+  padding: 20px;
+  max-width:  600px;
+  width: 100%;
+  font-size: 23px;
+}
+
+.form-container input[type="text"],
+.form-container textarea {
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 10px;
+  border: 1px solid white;
+}
+
+.form-container input[type="submit"] {
+  background-color: #7FB5FF;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  align-self: flex-start; /* Align the button to the left */
+}
+
+.form-container form {
+  margin: 0;
+}
+
+.form-container label {
+  margin-bottom: 5px;
+  font-family: poppins;
+  color: white;
+}
+
+.custom-input::placeholder {
+  color:#7FB5FF;
+  font-family: poppins;
+  font-size: 20px;
+}
+
+.form_texte1
+{
+  font-family: poppins;
+  font-size: 21px;
+  color: white;
+}
+.form_texte2
+{
+  font-family: poppins; 
+  font-size: 21px;
+  color: #CD00FF;
+}
+.form_texte3
+{
+  font-family: poppins;
+  font-size: 21px;
+  color: #7FB5FF;
+}
+.form_texte4
+{
+  font-family: poppins;
+  font-size: 21px;
+  color:#0D0235;
+}
+.acc_creation  
+{
+  background-color: white;
+  color: #7FB5FF;
+  border: 2px solid #7FB5FF;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 15px;
+  font-family: poppins;
+}
+/*form end*/
+
+
+
+
+
+
+
+
+/*responsive 1 start  */
+@media only screen and (max-width: 1682px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 110px;
+    align-items: center;
+    font-size: 36px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 28px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:100px;
+    font-size: 28px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 150px;
+    font-size: 28px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 29px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 28px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:40px;
+    margin-right: 55px;   
+}
+.icons2 /*contact*/
+{
+    height:50px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    height:170px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+/*responsive 1 end  */
+
+
+  
+
+
+/*responsive 2 start  */
+@media only screen and (max-width: 1544px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 80px;
+    align-items: center;
+    font-size: 36px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 27px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:100px;
+    font-size: 27px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 110px;
+    font-size: 27px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 28px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 27px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:30px;
+    margin-right: 55px;   
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:50px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:150px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+}
+/*responsive 2 end  */
+
+
+
+
+
+
+
+/*responsive 3 start  */
+@media only screen and (max-width: 1480px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 80px;
+    align-items: center;
+    font-size: 34px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 25px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:90px;
+    font-size:25px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 140px;
+    font-size: 25px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 27px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 25px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:40px;
+    margin-right: 55px;   
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:50px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:170px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+/*responsive 3 end  */  
+
+
+
+
+
+
+
+/*responsive 4 start  */
+@media only screen and (max-width: 1400px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 80px;
+    align-items: center;
+    font-size: 33px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 24px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:90px;
+    font-size:24px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 120px;
+    font-size: 24px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 26px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 24px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:40px;
+    margin-right: 55px;   
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:50px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:170px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+/*responsive 4 end  */  
+
+
+
+
+
+
+
+/*responsive 5 start  */
+@media only screen and (max-width: 1344px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 80px;
+    align-items: center;
+    font-size: 31px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 22px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:90px;
+    font-size:22px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 140px;
+    font-size: 22px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 25px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 22px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:40px;
+    margin-right: 55px;   
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:40px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:150px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+/*responsive 5 end  */  
+
+
+
+
+
+/*responsive 6 start  */
+@media only screen and (max-width: 1288px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 80px;
+    align-items: center;
+    font-size: 30px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 21px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:90px;
+    font-size:21px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 140px;
+    font-size: 21px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 24px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 21px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:40px;
+    margin-right: 55px;   
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:40px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:150px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+/*responsive 6 end  */ 
+
+
+
+
+
+
+/*responsive  start 7 */
+@media only screen and (max-width: 1256px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 80px;
+    align-items: center;
+    font-size: 29px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 22px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:75px;
+    font-size:22px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 80px;
+    font-size: 22px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 26px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 20px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:40px;
+    margin-right: 55px;   
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:40px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:170px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+/*responsive 7 end  */ 
+
+
+
+
+
+
+
+
+
+/*responsive  start 8 */
+@media only screen and (max-width: 1168px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 80px;
+    align-items: center;
+    font-size: 27px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 21px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:60px;
+    font-size:21px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 70px;
+    font-size: 21px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 22px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 21px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 21px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:35px;
+    margin-right: 40px;   
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:40px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:160px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+/*responsive 8 end  */ 
+
+
+
+
+
+
+
+/*responsive  start 9 */
+@media only screen and (max-width: 1071px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 80px;
+    align-items: center;
+    font-size: 26px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 19px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:50px;
+    font-size:19px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 70px;
+    font-size: 19px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 22px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 18px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:35px;
+    margin-right: 40px; 
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:40px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:160px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+/*responsive 9 end  */ 
+
+
+
+
+
+
+
+
+/*responsive  start 9 */
+@media only screen and (max-width: 980px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 80px;
+    align-items: center;
+    font-size: 24px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 17px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:45px;
+    font-size:17px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 70px;
+    font-size: 17px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 20px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 17px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:35px;
+    margin-right: 40px;   
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:40px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:150px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+/*responsive 9 end  */ 
+
+
+
+
+
+/*responsive  start 10 */
+@media only screen and (max-width: 910px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 80px;
+    align-items: center;
+    font-size: 23px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 16px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:40px;
+    font-size:16px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 70px;
+    font-size: 16px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 19px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 16px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:30px;
+    margin-right: 30px;   
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:35px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:150px;
+    display: inline-block;
+}
+#copy_right
+{
+  height: 20px;
+  width:20px;
+}
+/*items end */
+
+/*footer end */
+  
+}
+/*responsive 10 end  */ 
+
+
+
+
+
+
+/*responsive  start 11 */
+@media only screen and (max-width: 916px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 70px;
+    align-items: center;
+    font-size: 21px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 15px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:55px;
+    font-size:15px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 60px;
+    font-size: 15px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 19px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 15px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:30px;
+    margin-right: 30px;   
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:36px;
+    margin-left: -20px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:130px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+/*responsive 11 end  */ 
+
+
+
+
+
+
+/*responsive  start 11 */
+@media only screen and (max-width: 845px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 60px;
+    align-items: center;
+    font-size: 20px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 13px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:50px;
+    font-size:14px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 60px;
+    font-size: 14px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 17px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 13px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:27px;
+    margin-right: 25px;    
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:36px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:110px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+/*responsive 11 end  */ 
+
+
+
+
+
+
+
+
+
+/*responsive  start 12 */
+@media only screen and (max-width:787px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 60px;
+    align-items: center;
+    font-size: 18px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 11px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:40px;
+    font-size:11px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 50px;
+    font-size: 11px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 16px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 11px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:27px;
+    margin-right: 25px;  
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:36px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:110px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+/*responsive 12 end  */
+
+
+
+
+
+
+/*responsive  start 13 */
+ 
+@media only screen and (max-width:772px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 60px;
+    align-items: center;
+    font-size: 18px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 11px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:40px;
+    font-size:11px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 40px;
+    font-size: 11px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 15px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 11px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:27px;
+    margin-right: 25px;  
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:36px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:110px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+
+/*responsive 13 end  */
+
+
+
+
+
+
+/*responsive  start 14 */
+ 
+@media only screen and (max-width:658px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 40px;
+    align-items: center;
+    font-size: 17px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 10px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:30px;
+    font-size:10px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 30px;
+    font-size: 10px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 14px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 10px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:25px;
+    margin-right: 25px;  
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:35px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:105px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+
+/*responsive 14 end  */
+
+
+
+
+
+
+
+/*responsive  start 15 */
+ 
+@media only screen and (max-width:590px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 40px;
+    align-items: center;
+    font-size: 17px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 10px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:28px;
+    font-size:9px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 28px;
+    font-size: 9px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 13px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 9px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:25px;
+    margin-right: 25px;  
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:32px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:95px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+
+/*responsive 15 end  */
+
+
+
+
+
+
+
+
+/*responsive  start 16 */
+ 
+@media only screen and (max-width:590px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 40px;
+    align-items: center;
+    font-size: 16px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 10px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:25px;
+    font-size:9px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 25px;
+    font-size: 9px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 12px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 9px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:25px;
+    margin-right: 25px;  
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:32px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:95px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+
+/*responsive 16 end  */
+
+
+
+
+
+
+
+/*responsive  start 17 */
+ 
+@media only screen and (max-width:538px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 40px;
+    align-items: center;
+    font-size: 15px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 8px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:25px;
+    font-size:8px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 25px;
+    font-size: 8px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 11px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 8px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:20px;
+    margin-right: 20px;  
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height:30px;
+    margin-left: -30px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:86px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+
+/*responsive 17 end  */
+
+
+
+
+
+
+
+/*responsive  start 18 */
+ 
+@media only screen and (max-width:483px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 40px;
+    align-items: center;
+    font-size: 14px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 7px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:23px;
+    font-size:7px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 20px;
+    font-size: 7px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 10px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 7px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:15px;
+    margin-right: 20px;  
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height: 25px;
+    margin-left: -20px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:80px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+  
+}
+
+/*responsive 18 end  */
+
+
+
+
+
+
+
+/*responsive  start 19 */
+ 
+@media only screen and (max-width:428px) 
+{
+  /*footer start */
+/*texte start*/
+#title1_footer /*casa*/
+{
+    font-family: Azonix;
+    display: inline-block;
+    color: white ;
+    margin-left: 40px;
+    align-items: center;
+    font-size: 13px;
+    
+}
+.title2_footer /*a propos & devient casastien */
+{
+    font-family: Azonix;
+    color: white ;
+    align-items: center;    
+    font-size: 6px;
+}
+.footer_text1 /*the gray one*/
+{
+    font-family: poppins;
+    color: gray;
+    margin-left:21px;
+    font-size:6px;
+    display:inline-block;
+}
+.footer_text2 /*the white one*/
+{
+    font-family: poppins;
+    color: white;
+    margin-left: 19px;
+    font-size: 6px;
+    display: inline-block;
+}
+#footertexte4
+{
+  font-family: poppins;
+  font-size: 9px;
+  color:white;
+  background-color: #7FB5FF;
+  border-color: #7FB5FF;
+  border-radius: 20px;
+}
+.word_casa
+{
+    font-weight: bold;
+    color: white; 
+    font-family: poppins; 
+    font-size: 6px;
+}
+/*texte end*/
+/*items start */
+.line 
+{
+  position: absolute;
+  margin-top: 40px;/* Distance from the top edge of the page */
+  left: 40px; /* Distance from the left edge of the page */
+  right: 400px; /* Distance from the right edge of the page */
+  height: 2px; /* Fixed height of the line */
+  background-color: #7F7F7F; /* Neon gray color */
+}
+.icons_pos /* linkedIn /  insta / facebook / tiktok (positions)*/
+{
+    display:inline-block;
+    nav-left: root;
+    display: flex;
+    justify-content: space-between;
+}
+.icons /* linkedIn /  insta / facebook / tiktok (style) */
+{
+    margin-top: -10px;
+    height:15px;
+    margin-right: 20px;  
+}
+.icons2 /*contact*/
+{
+  margin-top: 40px;
+    height: 20px;
+    margin-left: -15px;
+}
+.logo_footer 
+{
+    margin-top: 10px;
+    height:70px;
+    display: inline-block;
+}
+/*items end */
+
+/*footer end */
+}
+/*responsive 19 end  */
+

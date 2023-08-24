@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Centered Image with Border Radius</title>
+  <style>
+    /* Resetting default styles for better consistency */
+div.books_blue {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Styling the hover effect */
+div.books_blue::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -100%;
+  width: 100%;
+  height: 100%;
+  background-color: #7FB5FF; /* Change to your desired hover background color */
+  transition: bottom 0.3s ease, opacity 0.3s ease; /* Add a smooth transition for the hover effect */
+  opacity: 0; /* Hide the pseudo-element by default */
+}
+
+div.books_blue:hover::before {
+  bottom: 0;
+  opacity: 1; /* Show the pseudo-element on hover */
+}
+
+/* Styling the paragraph that appears on hover */
+div.books_blue p.to_click {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px 20px;
+  background-color: #7FB5FF; /* Change to your desired paragraph background color */
+  color: #fff; /* Change to your desired paragraph text color */
+  border: none;
+  cursor: pointer;
+  opacity: 0; /* Hide the paragraph by default */
+  transition: opacity 0.3s ease; /* Add a smooth transition for the paragraph appearance */
+}
+
+div.books_blue:hover p.to_click {
+  opacity: 1; /* Show the paragraph on hover */
+}
+
+  </style>
+</head>
+<body>
+  <div class="books_blue">
+    <img src="img/books/news.png" alt="Image 2" class="book_dim">
+    <p class="to_click">Click Me</p>
+  </div>  
+</body>
+</html>
